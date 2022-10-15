@@ -32,7 +32,7 @@ En esta carpeta creamos los archivos "bigotudos" como yo los llamo, en fin, en e
 
 También le hemos creado un archivo "404" en este se encuentra la pestaña de error, la cual es generada por un error en el "Path" de búsqueda de la página.
 
-## # Se ha creado la carpeta "Partials": esta se crea dentro de "Views"
+## Se ha creado la carpeta "Partials": esta se crea dentro de "Views"
 
 ![partials](https://user-images.githubusercontent.com/105325885/196005769-92dc6e09-993c-4d75-9327-8f9fb94ed5cc.png)
 
