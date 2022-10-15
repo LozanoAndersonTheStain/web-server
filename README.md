@@ -41,3 +41,11 @@ En esta hemos generado tres archivos diferentes y como se puede apreciar, cada n
 Estos están por separado porque los partials son partes del código que se necesita reutilizar en varias partes diferentes de nuestras páginas, pero que sigan teniendo la misma funcionalidad que en la anterior.
 
 Estos solo pueden ser reutilizados como si se importaran de un lado a otro, de esta manera "{{> header}}", "{{> nav}}" o "{{> footer}}", claro esto es independientemente de para que lo vayas a utilizar.
+# Heroku
+
+El proyecto ha sido desplegado en Heroku, la cual es una plataforma de servicios de computación en la nube, el cual es capaz de soportar cualquier lenguaje de programación
+
+#### He aquí el link de la página
+https://web-server-alz.herokuapp.com
+
+#### Esto ha sido todo por este proyecto... Espero este proyecto te sirva bastante y puedas hacer grandes proyectos
